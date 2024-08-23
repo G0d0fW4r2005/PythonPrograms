@@ -1,7 +1,7 @@
 import random
 import os
 from time import *
-print("\n[\033[1;34m~\033[1;39m] Adivina el número by -H3llo2005-\n")
+print("\n[\033[1;34m~\033[1;39m] Adivina el número by -G0d0fW4r2005-\n")
 sleep(2)
 def main():
     try:
