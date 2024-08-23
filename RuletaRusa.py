@@ -1,5 +1,5 @@
 import random
-print("\n♦ Ruleta Rusa by ~H3llo2005~\n")
+print("\n♦ Ruleta Rusa by ~G0d0fW4r2005~\n")
 a = input("\n♥ Presiona Enter para meter la bala...\n")
 Bala = random.randint(1,6)
 Hueco_Dead = random.randint(1,6)
