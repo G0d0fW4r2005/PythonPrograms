@@ -1,4 +1,4 @@
-print("\n[\033[1;34m~\033[1;39m] Par-Impar by -H3llo2005-\n")
+print("\n[\033[1;34m~\033[1;39m] Par-Impar by -G0d0fW4r2005-\n")
 def main():
     try:
         TN = int(input("\n[\033[1;34m+\033[1;39m] Dime un número entero: "))
