@@ -1,6 +1,6 @@
 import math
 
-
+print("\n♦ Pendulo Balistico by ~G0d0fW4r2005~\n")
 print("Hola! Bienvenido al simulador de péndulo balístico.")
 print("NOTA IMPORTANTE: Para introducir decimales se debe usar el (.) no la (,).")
 print("Las simulaciones están calculadas para casos ideales sin perdidas de energia.")
